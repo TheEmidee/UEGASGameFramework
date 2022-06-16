@@ -38,6 +38,10 @@ public class GASGameFramework : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"DataValidationExtensions",
+				"GASExtensions",
+				"ModularGameplayActors",
+				"GameBaseFramework"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
